@@ -921,6 +921,9 @@ img {
   .our-portfolio-section-item {
     width: calc((100% - 24px) / 2);
   }
+  .footer {
+    padding: 96px 148px 96px 92px;
+  }
   .footer-wrap {
     display: flex;
     flex-wrap: wrap;
